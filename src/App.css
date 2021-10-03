@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Akronim&display=swap");
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -23,9 +25,10 @@ body {
 }
 
 h1 {
+  font-family: "Akronim", cursive;
   margin: 32px 0;
-  color: #252525;
-  font-size: 24px;
+  color: #4a1a80;
+  font-size: 40px;
 }
 
 .complete {
